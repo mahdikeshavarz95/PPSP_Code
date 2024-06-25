@@ -1,2 +1,2 @@
 # PPSP_Code
-The GAMS code is available in GAMS and TXT frmat
+The GAMS code is available in GAMS and TXT format
